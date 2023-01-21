@@ -13,3 +13,10 @@ https://www.howtoforge.com/tutorial/how-to-create-docker-images-with-dockerfile/
 https://linuxize.com/post/how-to-build-docker-images-with-dockerfile/ <br>
 https://stackify.com/docker-build-a-beginners-guide-to-building-docker-images/ <br>
 https://docs.docker.com/develop/develop-images/baseimages/ <br>
+
+<b> Docker basics </b> <br>
+https://www.freecodecamp.org/news/the-docker-handbook/ <br>
+https://www.freecodecamp.org/news/learn-docker-and-kubernetes-hands-on-course/ <br>
+https://www.youtube.com/watch?v=fqMOX6JJhGo <br>
+https://www.youtube.com/watch?v=Wf2eSG3owoA  <br>
+https://www.youtube.com/watch?v=kTp5xUtcalw <br>
