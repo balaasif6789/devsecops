@@ -1,23 +1,3 @@
-11 Container Security Scanners to find Vulnerabilities
-
-By Avi
-
-Are your container and Docker image secure?
-
-Let’s find out!
-
-Hackers have gone very active in the past few years. Even big organizations like Facebook, Google, and Yahoo have been victims to attacks losing millions of dollars. That is why an application’s security is the utmost important thing in every organization today.
-
-Many of these applications today run inside containers as they are easily scalable, cost-effective, faster deployable, take lesser storage, and use resources far better than virtual machines. So, the security factor of these containers is very crucial. A container image is made up of layers, and to get a real understanding of an image’s vulnerability stance, you need to access each layer. The smaller container images have a lesser chance to get exposed to potential vulnerabilities.
-
-Containerization is one of the core stages in the DevOps process where security must be looked at on a serious note. A container image can have many bugs and security vulnerabilities, which gives a good opportunity for hackers to get access to the application or data present on the container costing millions to the company.
-
-Hence, it is crucial to scan and audit the images and containers regularly. DevSecOps plays an important role in adding security to the DevOps processes, including scanning images and containers for bugs and vulnerabilities.
-
-A container security scanner will help you find all the vulnerabilities inside your containers and monitor them regularly against any attack, issue, or a new bug.
-
-Let’s explore the available options.
-
 Clair
 Clair is an open-source project which offers static security and vulnerability scanning for docker and application (appc) containers.
 
